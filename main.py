@@ -32,6 +32,3 @@ def divisao(n1, n2):
 def multiplicar(n1, n2):
     mult = n1 * n2
     return (mult)
-
-
-if __name__ == '__main__':
